@@ -1,0 +1,27 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/background1.jpg);
+  height: 700px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/background2.jpg);
+  height: 700px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/background3.jpg);
+  height: 700px;
+}
+footer {
+  position: relative;
+}
+footer a {
+  text-decoration: none;
+  position: absolute;
+  right: 50px;
+}
